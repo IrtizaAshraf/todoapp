@@ -4,7 +4,7 @@ import './App.css'
 
 
 
-
+ // create a main funtion of todo app
 function App() {
   const [text, setText] = useState("")
   const [todo, setTodo] = useState([])
